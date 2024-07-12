@@ -44,7 +44,7 @@ export function InviteGuestsModal({
           ))}
         </div>
 
-        <div className="flex h-px bg-zinc-800" />
+        <div className="w-full h-px bg-zinc-800" />
 
         <form
           onSubmit={addNewEmailToInvite}
