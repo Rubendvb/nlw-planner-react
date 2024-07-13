@@ -21,9 +21,7 @@ export function CreateTripPage() {
     DateRange | undefined
   >()
 
-  const [emailsToInvite, setEmailsToInvite] = useState([
-    'jessica.white44@yahoo.com',
-  ])
+  const [emailsToInvite, setEmailsToInvite] = useState<string[]>([])
 
   function openGuestInput() {
     setIsGuestsInputOpen(true)
