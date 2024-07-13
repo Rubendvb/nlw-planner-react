@@ -59,7 +59,8 @@ O **Planejador de Viagem** é um site desktop desenvolvido para ajudar a montar 
    ```sh
    npm install
    ```
-4. Execute o servidor:
+4. Crie um arquivo `.env` na raiz do projeto e adicione as variáveis do arquivo `.env.example`.
+5. Execute o servidor:
    ```sh
    npm run dev
    ```
