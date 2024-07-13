@@ -54,7 +54,7 @@ O **Planejador de Viagem** é um site desktop desenvolvido para ajudar a montar 
 
 Aqui estão algumas capturas de tela do projeto:
 
-![alt]('/public/project.gif')
+![alt](public/project.gif)
 
 ## Contribuição
 
