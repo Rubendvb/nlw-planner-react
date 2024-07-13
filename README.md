@@ -26,6 +26,8 @@ O **Planejador de Viagem** é um site desktop desenvolvido para ajudar a montar 
 
 ## Instalação
 
+### Frontend
+
 1. Clone o repositório:
    ```sh
    git clone https://github.com/Rubendvb/nlw-planner-react.git
@@ -39,6 +41,25 @@ O **Planejador de Viagem** é um site desktop desenvolvido para ajudar a montar 
    npm install
    ```
 4. Execute o projeto em modo de desenvolvimento:
+   ```sh
+   npm run dev
+   ```
+
+### Backend
+
+1. Clone o repositório do backend:
+   ```sh
+   git clone https://github.com/rocketseat-education/nlw-journey-nodejs.git
+   ```
+2. Navegue até o diretório do backend:
+   ```sh
+   cd nlw-journey-nodejs
+   ```
+3. Instale as dependências:
+   ```sh
+   npm install
+   ```
+4. Execute o servidor:
    ```sh
    npm run dev
    ```
